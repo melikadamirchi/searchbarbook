@@ -1,0 +1,26 @@
+    input {
+        font-size: 1.1rem !important;
+    }
+    
+    a {
+        font-size: 1rem;
+        line-height: 40px;
+        text-decoration: none;
+    }
+    
+    .aa:hover {
+        font-size: 1.4rem;
+    }
+    
+    #remove {
+        cursor: pointer;
+        font-size: 2rem;
+    }
+    
+    #remove:hover {
+        font-size: 2.5rem;
+    }
+    
+    h5 {
+        font-size: 1rem !important;
+    }
